@@ -1,2 +1,2 @@
-export const ApiUrl = 'http://restaurantserverapi.azurewebsites.net/api/';
-export const ContentUrl = "http://restaurantserverapi.azurewebsites.net/";
+export const ApiUrl = 'http://chatbotwebservices.azurewebsites.net/api/';
+export const ContentUrl = "http://chatbotwebservices.azurewebsites.net/";
